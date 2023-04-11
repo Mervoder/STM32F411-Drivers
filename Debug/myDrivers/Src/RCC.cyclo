@@ -1,0 +1,4 @@
+RCC.c:17:10:RCC_GetSystemClock	3
+RCC.c:48:10:RCC_GetHClock	1
+RCC.c:72:10:RCC_GetPClock1	1
+RCC.c:95:10:RCC_GetPClock2	1
